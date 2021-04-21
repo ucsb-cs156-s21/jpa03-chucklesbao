@@ -2,7 +2,7 @@
 
 Repo: https://ucsb-cs156-s21/jpa03-chucklesbao
 
-On Heroku: https://jpa03-chucklesbao.herokuapp.com
+On Heroku: https://jpa03-cybao.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-chucklesbao
 
